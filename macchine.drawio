@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T18:54:43.628Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="14.2.9" etag="AuoC3tqVvQTv4RyKDhov" type="github"><diagram id="fzMU--YrNCKw4xbGZ7Bv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-01T19:02:04.760Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="5fO1Kze4T5IcpBmMOLWJ" version="14.2.9" type="github">
+  <diagram id="fzMU--YrNCKw4xbGZ7Bv" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zod0gpF_g_3349jnjweD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="40" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="75" width="185.5" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Prima macchina&lt;br&gt;&lt;br&gt;Fiat Panda 4x4&lt;br&gt;&lt;br&gt;prezzo: 9.000€&lt;br&gt;&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-4" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Seconda macchina&lt;br&gt;&lt;br&gt;Abarth&lt;br&gt;&lt;br&gt;prezzo:14.000€&lt;br&gt;&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry y="80" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Terza macchina&lt;br&gt;&lt;br&gt;Audi A7&lt;br&gt;&lt;br&gt;prezzo:18.000€&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry y="160" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Quarta macchina&lt;br&gt;&lt;br&gt;Chevrolet Camaro&lt;br&gt;&lt;br&gt;prezzo:12.000€&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry y="240" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iArrowIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry x="170.5" y="65" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iArrowIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry x="170.5" y="145" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iArrowIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry x="170.5" y="225" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Zod0gpF_g_3349jnjweD-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iArrowIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;" vertex="1" parent="Zod0gpF_g_3349jnjweD-2">
+          <mxGeometry x="170.5" y="305" width="15" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
